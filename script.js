@@ -1,4 +1,4 @@
-const fizzbuzz_dom = document.getElementById('fizzbuzz_dom');
+const fizzbuzz_dom = document.getElementById('fizzbuzz-dom');
 
 for(let i=1; i<=100; i++){
     let value;
